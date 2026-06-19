@@ -1,0 +1,29 @@
+# Build outputs
+build/
+cuda/build/
+x64/
+Debug/
+Release/
+*.exe
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+*.user
+*.vcxproj.user
+
+# Generated renders
+render.bmp
+cuda/render.bmp
+*.out.bmp
+
+# MATLAB
+*.asv
+slprj/
+
+# OS
+.DS_Store
+Thumbs.db
